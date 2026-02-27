@@ -1,4 +1,5 @@
-## Hi I'm a student👋
+## Hi I'm a highschool student👋
+## Welcome to visit my homepage！ 🎉
 
 <!--
 **mustname/mustname** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
